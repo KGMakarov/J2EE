@@ -1,0 +1,7 @@
+<%@ page pageEncoding="UTF-8" %>
+<div class="sidebar1">
+   <form action="addemployee.jsp">
+       <button class="add_button" type="submit" >Добавить сотрудника</button>
+    </form> 
+</div>
+

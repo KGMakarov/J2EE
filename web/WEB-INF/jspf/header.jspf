@@ -1,0 +1,18 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Список сотрудников</title>
+        <link href="../css_styles/style_main.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+
+        <div class="container">
+
+            <div class="header">
+                <div class="descr">
+                    <h3>Список сотрудников "ИТЦ МОЛНЕТ"</h3>
+                    <hr>
+                </div>               
+            </div>
